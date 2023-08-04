@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @coldplayjnr
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently a frontend developer
+- UI/UX designer
 - 📫 How to reach me whatsapp- 07026282610 twittwr@bannykrane
 
 <!---
